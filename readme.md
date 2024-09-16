@@ -18,7 +18,7 @@ This project is a clone of the website [Bent Lindberg - Digital Designer](https:
 ## How to Run the Project
 
 ### Clone the repository:
-git clone https://github.com/your-username/digital-designer-portfolio-clone.git
+git clone https://github.com/AbdulAhad114/Digital-designer-portfolio-clone.git
 
 ## Overview
 
