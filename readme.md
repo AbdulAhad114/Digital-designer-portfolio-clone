@@ -2,7 +2,7 @@
 
 This project is a clone of the website [Bent Lindberg - Digital Designer](https://bent-template.webflow.io/), built as part of my journey into mastering HTML and CSS. The aim of the project was to replicate the original website's design and structure, helping me practice and enhance my frontend web development skills.
 
-![Preview of the Project](./main.png)
+![Preview of the Project](./main2.png)
 
 ## Table of Contents
 
